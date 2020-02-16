@@ -1,5 +1,5 @@
 let divide = function(a,b){
-  console.log( a/b)
+  console.log( a/b);
 }  
 
 // divide(2000,100)
